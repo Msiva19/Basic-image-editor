@@ -10,7 +10,7 @@ body{
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background: #e2acff;
+  background-image: linear-gradient(to left top, #1aebdf, #00ddff, #00c7ff, #8fa5ff, #e975ee);
 }
 .container{
   width: 850px;
